@@ -1,0 +1,146 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="C8P7OgAvCNE_Rv7p64sj">
+    <mxGraphModel dx="1965" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AsfBcCdLAqqEViXDGGea-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;Text genrate kr sakte hai&lt;br&gt;Image create kr sakte hain&lt;br&gt;Code likh sakte hai&lt;br&gt;Document ko summarize kr sakte hain&lt;br&gt;Automation script bna sakte hain&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="360" x="220" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;What is generative AI?&lt;br&gt;Why we use Gen AI?&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="360" x="220" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Why Gen AI required?&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Automation&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Faster delivary&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;reduce human effor&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reduce manual error&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Better productivity&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cost reduction&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="370" x="220" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="&lt;b&gt;Differece b/w Gen AI &amp;amp; Agentic AI&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="330" x="240" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;Gen AI&lt;br&gt;&lt;/b&gt;&lt;span class=&quot;zlAe0W_TextBase zlAe0W_Text&quot; data-w-component=&quot;text&quot; data-w-weight=&quot;semibold&quot; data-w-inline=&quot;&quot; data-w-whitespace=&quot;linebreaks&quot;&gt;GenAI = the brain that writes.&lt;/span&gt; Great at drafting, explaining, coding, summarizing, and transforming information.&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-start=&quot;156&quot; data-end=&quot;170&quot; data-col-size=&quot;sm&quot;&gt;&lt;strong data-start=&quot;158&quot; data-end=&quot;169&quot;&gt;&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-start=&quot;170&quot; data-end=&quot;216&quot; data-col-size=&quot;md&quot;&gt;&lt;b&gt;1-Creates content (text, images, code, audio)&lt;br&gt;2-Responds to prompts&lt;br&gt;3-Limited to generating outputs&lt;br&gt;4-Usually stateless or short-term context&lt;br&gt;5-Writing an email draft&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="105" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" value="&lt;b&gt;Agentic AI&lt;br&gt;&lt;/b&gt;&lt;span class=&quot;zlAe0W_TextBase zlAe0W_Text&quot; data-w-component=&quot;text&quot; data-w-weight=&quot;semibold&quot; data-w-inline=&quot;&quot; data-w-whitespace=&quot;linebreaks&quot;&gt;Agentic AI = the brain + hands + checklist.&lt;/span&gt; It uses a GenAI model underneath, then adds planning, tool use, memory, permissions, and feedback loops to pursue an objective.&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;1-Achieves goals by planning and taking actions&lt;br&gt;2-Acts autonomously toward an objective&lt;br&gt;3-Can reason, plan, choose tools, and adapt&lt;br&gt;4-Often maintains memory and tracks progress&lt;br&gt;5-Researching a topic, drafting the email, sending it, and following up&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="420" x="440" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="&lt;b&gt;GenAI Architecture&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="215" x="340" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-13" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AsfBcCdLAqqEViXDGGea-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="User&lt;br&gt;(Web App, Chatbot, Teams, Slack, Mobile App)&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="270" x="305" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-15" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AsfBcCdLAqqEViXDGGea-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="App layer/UI - Authentication                                  |&lt;br&gt;| - Session Management&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="250" x="315" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-17" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="790" />
+              <mxPoint x="355" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-21" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="790" />
+              <mxPoint x="500" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="Orchestration layer/Decision maker/manager" vertex="1">
+          <mxGeometry height="40" width="265" x="300" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-18" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-41" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="AsfBcCdLAqqEViXDGGea-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="LLM" vertex="1">
+          <mxGeometry height="30" width="140" x="285" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Output" vertex="1">
+          <mxGeometry height="30" width="140" x="285" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-23" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-45" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="RAG Pipeline" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-28" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="Embedding Model" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-30" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" value="Vector Database Similarity Search" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-32" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Relevant Chunks/Documents" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-35" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="Prompt template" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="LLM" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-38" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Security" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="Olly/ Monitoring" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Final Response" vertex="1">
+          <mxGeometry height="30" width="140" x="430" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="Large Language model" vertex="1">
+          <mxGeometry height="30" width="140" x="40" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="Risk&lt;br&gt;Outdated Info&lt;br&gt;Hallucination" vertex="1">
+          <mxGeometry height="50" width="120" x="70" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="Retrival Augumanted Generation" vertex="1">
+          <mxGeometry height="30" width="190" x="40" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-48" edge="1" parent="1" source="AsfBcCdLAqqEViXDGGea-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AsfBcCdLAqqEViXDGGea-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="1-Before phase -offline process se data inject krte hain&amp;nbsp;&amp;nbsp;&lt;br&gt;Documents&lt;br&gt;   ↓&lt;br&gt;Chunking&lt;br&gt;   ↓&lt;br&gt;Embedding&lt;br&gt;   ↓&lt;br&gt;Vector DB" vertex="1">
+          <mxGeometry height="160" width="190" x="620" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="AsfBcCdLAqqEViXDGGea-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="&amp;nbsp;&amp;nbsp;2-After phase- Online process&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="620" y="870" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
